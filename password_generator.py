@@ -34,7 +34,7 @@ for i in range(symbol_count):
 
 random.shuffle(password)                    #shuffle chy help ne generate zhalela password mix karto (ex --> ['e','#','4','4','e','r','#','$','d'])
 
-for i in password:                      #generate zhalela pass ha list for madhe hota mhnun all elemtnt vist karun tayla str madhe convert kela ani passrd ya madhe srore kela 
+for i in password:                      #generate zhalela pass ha list format madhe hota mhnun all elemtnt vist karun tayla str madhe convert kela ani passrd ya madhe store kela 
     passwrd = passwrd+str(i)
 
     
